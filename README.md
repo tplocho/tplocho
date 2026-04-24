@@ -2,17 +2,17 @@
 
 *Applied Physics Graduate | Thermonuclear Fusion, Electromagnetics & Materials | Scientific Computing*
 
-- National Technical University of Athens (NTUA)
+- Integrated Master's in Applied Physics — National Technical University of Athens (NTUA)
 - Based in Athens, Greece
 - Working in MATLAB, Python, numerical simulation, data analysis, and research software
 
 ## Research interests
-- fusion-plasma modeling
-- electron-cyclotron resonance, ECRH, and ECCD
-- physics-informed modeling and scientific computing
-- fusion-relevant materials and plasma-facing environments
-- extreme-environment materials across space-radiation contexts
-- radiation measurements and detector systems
+- Thermonuclear plasma modeling
+- Electron-cyclotron resonance, ECRH, and ECCD physics
+- Physics-informed modeling and scientific computing
+- Fusion-relevant materials and plasma-facing components
+- Extreme-environment materials in radiation and space-relevant contexts
+- Radiation measurements and detector systems
 
 ## Featured repositories
 - **HERA–ATLAS EC Framework** — research code for EC actuator evaluation and resonance mapping in ITER-class tokamak scenarios
