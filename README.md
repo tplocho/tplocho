@@ -1,7 +1,5 @@
 # Hi, I'm Theotokis Plochoros
 
-*Applied Physics Graduate | Thermonuclear Fusion, Electromagnetics & Materials | Scientific Computing*
-
 - Integrated Master's in Applied Physics — National Technical University of Athens (NTUA)
 - Based in Athens, Greece
 - Working in MATLAB, Python, numerical simulation, data analysis, and research software
