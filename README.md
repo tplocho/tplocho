@@ -10,8 +10,8 @@ Applied physicist working at the intersection of thermonuclear fusion, plasma ph
 - fusion-plasma modeling
 - electron-cyclotron resonance, ECRH, and ECCD
 - physics-informed modeling and scientific computing
+- fusion-relevant and extreme-environment materials across plasma-facing and space-radiation contexts
 - radiation measurements and detector systems
-- advanced technological materials
 
 ## Featured repositories
 - **HERA–ATLAS EC Framework** — research code for EC actuator evaluation and resonance mapping in ITER-class tokamak scenarios
