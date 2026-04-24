@@ -22,6 +22,13 @@
 - Email: [tplocho@gmail.com](mailto:tplocho@gmail.com)
 - LinkedIn: [linkedin.com/in/tplocho](https://www.linkedin.com/in/tplocho)
 
+<!--
+Future extension hooks
+- Add ORCID when created:
+  - ORCID: [orcid.org/XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+- If ORCID becomes the preferred academic anchor, decide whether to keep LinkedIn as the GitHub website field or switch the account-level website field to ORCID.
+-->
+
 ---
 
 If you are visiting for research, technical discussion, or collaboration related to fusion, plasma physics, electromagnetics, materials, or scientific computing, start with the pinned repositories below.
