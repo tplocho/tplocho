@@ -1,9 +1,12 @@
 # Hi, I'm Theotokis Plochoros
 
-- Integrated Master's in Applied Physics — National Technical University of Athens (NTUA)
-- Based in Athens, Greece
-- Working in MATLAB, Python, numerical simulation, data analysis, and research software
+I am an Integrated Master's graduate in Applied Physics from the National Technical University of Athens (NTUA), building computational and technical projects across plasma physics, scientific computing, and applied modeling.
 
+My main research work focuses on electron-cyclotron wave–particle interaction in tokamak plasmas, including resonance mapping, ECRH/ECCD actuator evaluation, and ITER-class fusion scenarios. Beyond that, this profile may also include broader technical projects, tools, and experiments that reflect my interests in applied physics, computing, and problem-solving.
+
+- Based in Athens, Greece
+- Working with MATLAB, Python, numerical simulation, data analysis, and research-oriented software development
+  
 ## Research interests
 - Thermonuclear plasma modeling
 - Electron-cyclotron resonance, ECRH, and ECCD physics
